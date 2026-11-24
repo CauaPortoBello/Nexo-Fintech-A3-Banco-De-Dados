@@ -9,7 +9,7 @@ Projeto A3 · Banco de Dados · Universidade São Judas Tadeu · 2026
 ![PostgreSQL 16](https://img.shields.io/badge/PostgreSQL-16-336791?logo=postgresql&logoColor=white)
 ![Dados sintéticos](https://img.shields.io/badge/dados-sint%C3%A9ticos-6b7280)
 
-[Relatório final](docs/relatorio-final-nexo.pdf) · [Apresentação](apresentacao/apresentacao-nexo.pdf) · [DER](modelagem/der-nexo.png) · [Scripts SQL](sql/)
+[Relatório final](docs/Nexo_Relatorio_ABNT_2026.docx) · [Apresentação](apresentacao/Nexo_Relatorio_ABNT_2026.pdf) · [DER](modelagem/der-nexo.png) · [Scripts SQL](sql/)
 
 </div>
 
