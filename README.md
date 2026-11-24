@@ -141,10 +141,6 @@ psql -d nexo -f sql/02_consultas_insights.sql
 
 O projeto utiliza **somente dados fictícios**. Nenhum dado pessoal real foi tratado. As medidas adotadas seguem os princípios de necessidade, segurança, prevenção e transparência da LGPD (Lei nº 13.709/2018), sem pretensão de conformidade jurídica completa por se tratar de um protótipo acadêmico.
 
-## Uso de inteligência artificial
-
-O uso de IA generativa no projeto está declarado na nota de rodapé 1 do [relatório final](docs/relatorio-final-nexo.pdf), como exige o enunciado da A3.
-
 ---
 
 ## Equipe
